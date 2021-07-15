@@ -17,8 +17,8 @@ class Person
 	Person(String name, String group, Integer score)
     {
         this.name = name;
-        this.group = grade;
-        this.score = marks;
+        this.group = group;
+        this.score = score;
     }
  
     public String getName() { return name; }
