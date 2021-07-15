@@ -14,7 +14,7 @@ class Person
 	}
 
  
-	Person(String name, String grade, Integer marks)
+	Person(String name, String group, Integer score)
     {
         this.name = name;
         this.group = grade;
